@@ -1,0 +1,1 @@
+"""MedLens backend application package."""

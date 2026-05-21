@@ -1,0 +1,29 @@
+# -----------------------------------------------------------------------------
+# MedLens backend dependencies
+# Pinned to versions that are known to work together as of mid-2025.
+# -----------------------------------------------------------------------------
+
+# --- Web framework ---
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+pydantic
+
+# --- Vision agent (TorchXRayVision + GradCAM) ---
+torch
+torchvision
+torchxrayvision
+scikit-image
+opencv-python-headless
+numpy
+
+# --- Context agent (BiomedBERT) ---
+transformers
+
+# --- Retrieval + Verification (Chroma + Sentence-Transformers) ---
+chromadb
+sentence-transformers
+
+# --- Report agent (Groq LLM client) ---
+groq
