@@ -1,0 +1,25 @@
+# MedLens backend dependencies
+
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+pydantic
+
+torch
+torchvision
+torchxrayvision
+scikit-image
+opencv-python-headless
+numpy
+
+transformers
+
+chromadb
+sentence-transformers
+
+groq
+
+# Vault: asymmetric encryption + Stellar anchoring
+PyNaCl
+stellar-sdk
