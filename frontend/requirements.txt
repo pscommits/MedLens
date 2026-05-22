@@ -1,0 +1,3 @@
+# MedLens frontend dependencies
+streamlit
+requests
