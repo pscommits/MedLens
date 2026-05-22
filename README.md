@@ -1,5 +1,5 @@
 # MedLens
-### The Verifiable Multimodal Radiology Co-Pilot
+### The Verifiable Radiology Co-Pilot
 
 > “Every finding cited. Every region highlighted. Every decision auditable.”
 
